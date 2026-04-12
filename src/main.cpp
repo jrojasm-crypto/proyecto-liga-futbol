@@ -2,7 +2,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-
 using namespace std;
 
 // se usan struct para asiganrle nombre a las variables con diferente tipo de variable //
