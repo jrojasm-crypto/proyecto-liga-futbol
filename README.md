@@ -1,5 +1,5 @@
 Nombre del proyecto: Sistema de Liga de Fútbol  
-Estudiante: Julian Felipe Rojas Molina  
+Estudiante: Julián Felipe Rojas Molina  
 Grupo: G02
 Materia: Pensamiento Algoritmico
 Lenguaje: C++  
