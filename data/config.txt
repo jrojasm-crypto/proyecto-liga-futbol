@@ -1,0 +1,25 @@
+# Configuracion de la liga
+nombre=Premier League 2025-2026
+puntos_victoria=3
+puntos_empate=1
+puntos_derrota=0
+equipo=Arsenal
+equipo=Aston Villa
+equipo=Bournemouth
+equipo=Brentford
+equipo=Brighton
+equipo=Burnley
+equipo=Chelsea
+equipo=Crystal Palace
+equipo=Everton
+equipo=Fulham
+equipo=Leeds United
+equipo=Liverpool
+equipo=Manchester City
+equipo=Manchester United
+equipo=Newcastle United
+equipo=Nottingham Forest
+equipo=Sunderland
+equipo=Tottenham
+equipo=West Ham United
+equipo=Wolverhampton
