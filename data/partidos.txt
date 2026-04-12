@@ -1,0 +1,6 @@
+1|07/04/2026|Arsenal|Manchester City|2|1
+1|07/04/2026|Liverpool|Chelsea|1|1
+1|07/04/2026|Manchester United|Tottenham|3|0
+2|14/04/2026|Brighton|Arsenal|0|2
+2|14/04/2026|Brentford|Liverpool|1|2
+2|14/04/2026|Crystal Palace|Manchester United|1|3
