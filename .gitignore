@@ -1,0 +1,17 @@
+# Los ejecutables
+*.exe
+*.out
+*.a.out
+
+# Las carpetas de compilación
+build/
+bin/
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos que son generados
+data/tabla.txt
