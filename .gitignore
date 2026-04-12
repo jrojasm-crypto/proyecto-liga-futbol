@@ -1,3 +1,5 @@
+## Archivos y ejecutables a ignorar ##
+
 # Los ejecutables
 *.exe
 *.out
