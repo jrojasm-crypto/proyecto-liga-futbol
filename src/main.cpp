@@ -379,8 +379,8 @@ void editar_resultado() {
 int muestra_menu() {
     cout << "\n===== " << config.nombre << " =====\n";
     cout << "1. Ver tabla\n2. Registrar partido\n3. Ver historial jornadas\n";
-    cout << "4. Ver todos los partidos\n5. Exportar Tabla (Opcional)\n";
-    cout << "6. Historial enfrentamientos (Opcional)\n7. Editar resultado (Opcional)\n8. Salir\nOpcion: ";
+    cout << "4. Ver todos los partidos\n5. Exportar Tabla \n";
+    cout << "6. Historial enfrentamientos \n7. Editar resultado \n8. Salir\nOpcion: ";
     int op;
     if (!(cin >> op)) { cin.clear(); string b; cin >> b; return 0; }
     return op;
